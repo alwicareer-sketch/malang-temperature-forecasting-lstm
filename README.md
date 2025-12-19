@@ -42,10 +42,10 @@ Model ini menunjukkan tingkat akurasi yang sangat baik dengan hasil sebagai beri
 ## 💡 Research Insights
 Berdasarkan hasil analisis data dan pemodelan dalam penelitian ini, terdapat beberapa temuan kunci:
 
-* [cite_start]**Kemampuan Prediksi Deep Learning:** Penggunaan arsitektur LSTM terbukti sangat efektif untuk data meteorologi di Kabupaten Malang, mencapai tingkat kesalahan (MAPE) di bawah 5%, yang dikategorikan sebagai model "Sangat Akurat"[cite: 194, 745].
-* [cite_start]**Tren Kenaikan Suhu:** Hasil peramalan 59 hari ke depan menunjukkan tren kenaikan suhu bertahap pada variabel minimum, maksimum, dan rata-rata[cite: 195]. [cite_start]Hal ini mengindikasikan transisi musim serta potensi pengaruh fenomena iklim regional[cite: 1633, 1653].
-* [cite_start]**Analisis Fluktuasi Harian:** Meskipun model mampu menangkap tren besar dan pola musiman dengan baik, terdapat tantangan dalam menangkap fluktuasi harian yang sangat dinamis jika hanya menggunakan fitur suhu saja[cite: 1705, 1714].
-* [cite_start]**Dampak Sektoral:** Prediksi tren kenaikan suhu ini memberikan *insight* penting bagi sektor pertanian di Malang (sebagai lumbung pangan) untuk mengantisipasi gangguan proses fotosintesis dan risiko kekeringan pada tanaman padi[cite: 188, 247].
-* [cite_start]**Fenomena Lokal:** Hasil penelitian selaras dengan pola iklim Jawa Timur, di mana periode Januari-Februari menunjukkan transisi suhu yang dapat dipengaruhi oleh anomali cuaca global seperti El Niño[cite: 1683].
+* **Kemampuan Prediksi Deep Learning:** Penggunaan arsitektur LSTM terbukti sangat efektif untuk data meteorologi di Kabupaten Malang, mencapai tingkat kesalahan (MAPE) di bawah 5%, yang dikategorikan sebagai model "Sangat Akurat".
+* **Tren Kenaikan Suhu:** Hasil peramalan 59 hari ke depan menunjukkan tren kenaikan suhu bertahap pada variabel minimum, maksimum, dan rata-rata. Hal ini mengindikasikan transisi musim serta potensi pengaruh fenomena iklim regional.
+* **Analisis Fluktuasi Harian:** Meskipun model mampu menangkap tren besar dan pola musiman dengan baik, terdapat tantangan dalam menangkap fluktuasi harian yang sangat dinamis jika hanya menggunakan fitur suhu saja.
+* **Dampak Sektoral:** Prediksi tren kenaikan suhu ini memberikan *insight* penting bagi sektor pertanian di Malang (sebagai lumbung pangan) untuk mengantisipasi gangguan proses fotosintesis dan risiko kekeringan pada tanaman padi.
+* **Fenomena Lokal:** Hasil penelitian selaras dengan pola iklim Jawa Timur, di mana periode Januari-Februari menunjukkan transisi suhu yang dapat dipengaruhi oleh anomali cuaca global seperti El Niño.
 
 
